@@ -1,0 +1,24 @@
+[[Qt6Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "648a10699921c4318337325c9e53aba68cd3e6b6"
+lazy = true
+libc = "musl"
+llvm_version = "20"
+os = "linux"
+
+    [[Qt6Tools.download]]
+    sha256 = "af3349f4b7a2c407f01919454a15791f6bc2a552965dfcb2476c103c2d260d41"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Tools_jll.jl/releases/download/Qt6Tools-v6.8.2+0/Qt6Tools.v6.8.2.x86_64-linux-musl-cxx11-llvm_version+20.tar.gz"
+[[Qt6Tools]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a66fcf0133429c89441eebbf0ae1281c7118eddd"
+lazy = true
+libc = "musl"
+llvm_version = "20.asserts"
+os = "linux"
+
+    [[Qt6Tools.download]]
+    sha256 = "402d5f6b8e3b02295ea8c9d109d54aaad4377c02687b6bb58db4e36dfaab5213"
+    url = "https://github.com/JuliaBinaryWrappers/Qt6Tools_jll.jl/releases/download/Qt6Tools-v6.8.2+0/Qt6Tools.v6.8.2.x86_64-linux-musl-cxx11-llvm_version+20.asserts.tar.gz"
