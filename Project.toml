@@ -1,6 +1,6 @@
 name = "Qt6Tools_jll"
 uuid = "41098d5d-486a-5be3-bd44-b646bda58606"
-version = "6.8.2+0"
+version = "6.8.2+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
